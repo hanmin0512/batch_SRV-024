@@ -11,4 +11,4 @@
 ## batch 파일 실행하여 진단 결과 확인
 > ![0](https://github.com/hanmin0512/batch_SRV-024/assets/37041208/592c48c9-e5e4-4e20-b61b-c5f8c663524b)
 
-- Telnet이 구동 되지 않고 있으며, 인증방법이 NTLM이기 때문에 따로 조치 x
+- Telnet이 구동 되지 않고 있으므로 양호
